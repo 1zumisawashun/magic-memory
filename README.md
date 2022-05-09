@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # flipped cards
 
+https://memory-game-o7xsx7a7g-1zumisawashun.vercel.app/
+
 ![image](https://user-images.githubusercontent.com/65071534/144739441-046c5232-0896-493a-9b39-9d57aa0e550e.png)
 
 ## Available Scripts
